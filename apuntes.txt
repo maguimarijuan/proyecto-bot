@@ -1,0 +1,32 @@
+
+BOTS
+
+Es una aplicacion con una interfaz diferente. 
+Resuelve mejor, mas rapido o mas facilmente.
+Funciona con diversas plataformas y distintos canales.
+Su funcionamiento debe ser facil de comprender. 
+Resuelve problemas con una cantidad minima de pasos. 
+
+Un bot no esta necesariamente basado en inteligencia artificial y no solo son de texto. El procesamiento del lenguaje natural esta asociado con los bots, no es mandatorio. 
+
+Las aplicaciones pasan por el BOT CONECTOR. La logica la escribimos en una aplicacion web que puede ser construida por un BOT BUILDER. Puede estar escrito en Node.js o en C#. Este builder puede usar herramientas adicionales. Esta aplicacion web al ser web permite que se conete facilmente con la logica de negocios. 
+
+Cosas a tener en cuenta al desarrollar bots:
+	-Seguridad y autenticacion
+	-devOps
+	-testing
+	-etc
+
+Mensajes: interaccion entre el usuario y el bot. 
+Estas conversaciones se pueden organizar en dialogos. Permiten organiar la estructura y logica conversacional. 
+Los mensajes no son el unico tipo de actividad cualquier tipo de interaccion es una actividcdad. Los mensajes son un caso especial de actividades. Una actividad puede ser unirse a la conversacion, etc. 
+Los reconocedores son piezas de codigos que nos permiten obtener intenciones de un usuario a traves de una actividad. Los reconocedores pueden ser propios o pueden estar construidos. (LUIS)
+
+NODE.JS
+Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación ECMAScript, asíncrono, con I/O de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google. Fue creado con el enfoque de ser útil en la creación de programas de red altamente escalables, como por ejemplo, servidores web.
+
+
+HOLA MUNDO DE LOS BOTS
+
+
+
